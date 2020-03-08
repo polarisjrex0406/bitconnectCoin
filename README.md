@@ -1,4 +1,4 @@
-# bitconnect **|** BCC **|** BitConnect Coin **|** bitconnectCoin
+## bitconnect **|** BCC **|** BitConnect Coin **|** bitconnectCoin **|** ビットコネクト
 
 **An Open-Source And Peer-To-Peer Community Driven Decentralized Crypto-Currency**
 
@@ -12,7 +12,7 @@
 
 ---
 
-## bitconnectCore
+### bitconnectCore
 
 **The bitconnectCoin Community**
 
@@ -35,6 +35,5 @@
 ---
 
 [<p align="center">Inflation</p>](https://chainz.cryptoid.info/bcc/#@inflation "Inflation")
-
-![alt text](https://cdn.discordapp.com/attachments/643796993314914304/670628397336100864/BCC_inflation_all_time.PNG "Inflation")
-*<p align="right">December 2016 - January 2020</p>*
+![alt text](https://cdn.discordapp.com/attachments/643796993314914304/686040028325216256/BCC_inflation_all_time.png "Inflation")
+[<p align="right">bitconnect BlockChain Open Source Code</p>](https://github.com/bitconnectCore/bitconnectCoin/blob/master/src/main.cpp "bitconnect BlockChain Open Source Code")
