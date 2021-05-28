@@ -2,7 +2,7 @@
 
 **An Open-Source And Peer-To-Peer Community Driven Decentralized Crypto-Currency**
 
-**bitconnect:** [BlockChain](https://chainz.cryptoid.info/bcc "BlockChain") **|** [Open Source Code](https://github.com/bitconnectcoin/bitconnectcoin/tree/master/src "Open Source Code") **|** [Wallet Releases](https://github.com/bitconnectcoin/bitconnectcoin/tree/master/setup "Wallet Releases") **|** [Build Documents](https://github.com/bitconnectcoin/bitconnectcoin/tree/master/doc "Build Documents")
+**bitconnect:** **|** [Open Source Code](https://github.com/bitconnectcoin/bitconnectcoin/tree/master/src "Open Source Code") **|** [Wallet Releases](https://github.com/bitconnectcoin/bitconnectcoin/tree/master/setup "Wallet Releases") **|** [Build Documents](https://github.com/bitconnectcoin/bitconnectcoin/tree/master/doc "Build Documents")
 
 **Wave One Direct Wallet Download:** [Windows](https://github.com/bitconnectCoin/bitconnectCoin/blob/master/setup/bitconnect-window-wallet/bitconnect-qt.zip?raw=true "Windows") **|** [Mac](https://github.com/bitconnectCoin/bitconnectCoin/blob/master/setup/bitconnect-mac-wallet/bitconnect-mac.zip?raw=true "Mac") **|** [Linux](https://github.com/bitconnectcoin/bitconnectcoin/blob/master/setup/bitconnect-linux-wallet/bitconnect-linux-qt.zip?raw=true "Linux")
 *Original bitconnect GitHub Releases*
@@ -14,25 +14,13 @@
 
 ---
 
-### bitconnectCore
-
-**The bitconnectCoin Community**
-
-**bitconnectCore:** [Wiki](https://github.com/bitconnectCore/bitconnectCoin/wiki "Wiki") **|** [FAQs](https://discord.gg/JxMNabw "FAQs") **|** [BootStrap](https://github.com/bitconnectCore/bitconnectCoin-blockchain-bootstrap/releases/ "BootStrap") *bitconnectCore GitHub Release*
-
----
-
 ### Information
 
 **BlockChain Resources**
 
-**General Wallet Tutorials:** [New](https://youtu.be/RTieeNXGNrE "New Wallet Tutorial") **|** [Old](https://youtu.be/OFPNmYAQYdw "Old Wallet Tutorial")
+**General Wallet Tutorials:** https://youtu.be/RTieeNXGNrE
 
 **Original bitconnect GitHub:** [bitconnect](https://github.com/bitconnectcoin/bitconnectcoin/ "bitconnect") **|**  [bitconnectX](https://github.com/bitconnectcoin/bitconnectx/ "bitconnectX")  
-
-**Associated Exchange / Service GitHubs:** [PirateCash PirateDEX](https://github.com/piratecash/pirate-dex/releases "PirateCash PirateDEX")
-
-**Unofficial Community GitHubs:** [bitconnectCoin.info](https://github.com/bitconnectcoininfo/ "bitconnectCoin.info")  **|**  [ThebCC.app](https://github.com/ThebCC/ "ThebCC.app")  **|**  [bitconnectCore.org](https://github.com/bitconnectCore/ "bitconnectCore.org")  **|**  [bitconnectXcore.org](https://github.com/bitconnectXcore/ "bitconnectXcore.org")
 
 ---
 
