@@ -1,4 +1,4 @@
-## bitconnect **|** BCC **|** BitConnect Coin **|** bitconnectCoin **|** ビットコネクト
+## bitconnect **|** BCC **|** BitConnect Coin **|** bitconnectCoin **|** Bitconnect Coin Community **|** ビットコネクト
 
 **An Open-Source And Peer-To-Peer Community Driven Decentralized Crypto-Currency**
 
