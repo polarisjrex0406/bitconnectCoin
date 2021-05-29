@@ -4,7 +4,7 @@
 
 bitconnect is a graphical-user-interface full-node, Satoshi-client miner, decentralized-application and compound-UTXO proof-of-stake blockchain.
 
-**Consisting Of;** BitCoin (Codebase & RPC QT User-Interface), LiteCoin (Scrypt), PeerCoin (Proof-Of-Stake & Compound-UTXO), NovaCoin (Proof-Of-Work & Proof-Of-Stake In-Tandem) And ZeroCoin (Anonymity).
+**Consisting Of;** BitCoin (Codebase & RPC QT User-Interface), LiteCoin (Scrypt), PeerCoin (Proof-Of-Stake & Compound-UTXO), NovaCoin (Proof-Of-Work & Proof-Of-Stake In-Tandem) & ZeroCoin (Anonymity).
 
 ---
 
