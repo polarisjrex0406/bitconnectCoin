@@ -17,4 +17,4 @@
 ---
 
 ![alt text](https://cdn.discordapp.com/attachments/643796993314914304/686040028325216256/BCC_inflation_all_time.png "Inflation")
-[<p align="right">bitconnect BlockChain Open-Source Code</p>](https://github.com/bitconnectCoin/bitconnectCoin/blob/master/src/main.cpp "bitconnect BlockChain Inflation Open-Source Code")
+[<p align="right">bitconnect BlockChain Inflation Open-Source Code</p>](https://github.com/bitconnectCoin/bitconnectCoin/blob/master/src/main.cpp "bitconnect BlockChain Inflation Open-Source Code")
